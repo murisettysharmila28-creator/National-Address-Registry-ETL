@@ -1,0 +1,10 @@
+# Ignore raw data files
+data/*.csv
+data/raw/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
