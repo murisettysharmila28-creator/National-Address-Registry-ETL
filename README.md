@@ -49,6 +49,7 @@ This project was developed as part of a set of academic assignments to demonstra
 ## Database Design
 - Database designed and normalized to **Third Normal Form (3NF)**
 - Separate tables created to reduce redundancy
+![3NF ERD](database%20design/erd_diag.png)
 
 ---
 
